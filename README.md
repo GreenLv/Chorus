@@ -14,7 +14,7 @@ This repository contains the experimental data and network traces for the paper:
 
 Chorus is a cross-layer framework that coordinates multipath scheduling with adaptive video streaming to jointly optimize Quality of Experience (QoE). Unlike traditional approaches that tune the packet scheduler independently, Chorus establishes two-way feedback control loops between the server transport layer and the client application, introducing Coarse-grained Decisions (CD) and Fine-grained Corrections (FC) to ensure appropriate bitrate selection and expected-time-oriented transport performance.
 
-[[Paper](https://dl.acm.org/doi/10.1145/3636534.3649359)] [[Slides](https://greenlv.github.io/files/2024_MobiCom_Chorus_slides.pdf)] [[Tech Report](https://greenlv.github.io/files/2024_MobiCom_Chorus_demo_video.mp4)] [[Demo Video](https://greenlv.github.io/files/2024_MobiCom_Chorus_demo_video.mp4)] [[GetMobile Highlights](https://dl.acm.org/doi/10.1145/3733892.3733900)]
+[[Paper](https://dl.acm.org/doi/10.1145/3636534.3649359)] [[Slides](https://greenlv.github.io/files/2024_MobiCom_Chorus_slides.pdf)] [[Tech Report](https://greenlv.github.io/files/2024_MobiCom_Chorus_tech_report.pdf)] [[Demo Video](https://greenlv.github.io/files/2024_MobiCom_Chorus_demo_video.mp4)] [[GetMobile Highlights](https://dl.acm.org/doi/10.1145/3733892.3733900)]
 
 ## Code Availability
 
