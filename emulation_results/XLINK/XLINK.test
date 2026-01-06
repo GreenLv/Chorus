@@ -1,0 +1,28 @@
+XLINK 300
+MP 1 Cubic
+cellular_subway_3 25 0.0 222649 cellular_airport 35 0.0 121827
+cellular_driving 24 0.0 203188 cellular_subwaystation_3 22 0.0 177215
+cellular_hsr_8 54 0.0001 63942 cellular_driving_2 15 0.0036 68219
+cellular_hsr 48 0.1295 496499 cellular_driving_3 22 0.0 273225
+cellular_home 15 0.0 107102 cellular_railwaystation_2 21 0.0 171315
+cellular_hsr_6 47 0.0 302671 cellular_home_4 26 0.0 224979
+cellular_outdoor_4 52 0.0004 604644 cellular_home_5 106 0.0 490065
+cellular_outdoor_7 20 0.0 194025 cellular_hsr_2 37 0.0001 435892
+cellular_hsr_3 34 0.0005 45333 cellular_subwaystation 15 0.0 112572
+cellular_hsr_4 166 0.0649 551461 cellular_hsr_7 50 0.0325 201467
+cellular_hsr_10 52 0.2483 438558 cellular_hsr_5 76 0.0055 316121
+cellular_subwaystation_4 14 0.0 85910 cellular_hsr_9 84 0.0001 159140
+cellular_hsr_12 56 0.03 122207 cellular_hsr_14 1002 0.0252 8144739
+cellular_hsr_17 180 0.0006 504882 cellular_hsr_13 44 0.0 331146
+cellular_hsr_15 87 0.011 373303 wifi_office 4 0.0012 26983
+cellular_hsr_16 64 0.0 89186 cellular_subway 14 0.0 143180
+wifi_home 13 0.0002 102985 cellular_office 26 0.0 250842
+cellular_office_2 82 0.0 689238 cellular_subwaystation_2 14 0.0 178792
+cellular_outdoor_6 24 0.0 237866 cellular_office_3 31 0.0912 172650
+cellular_office_4 23 0.001 131583 wifi_hsr 47 0.0156 94708
+cellular_railwaystation 43 0.0 493018 cellular_outdoor 57 0.0 487473
+cellular_subway_5 21 0.0 115762 cellular_outdoor_2 21 0.0003 253136
+cellular_outdoor_3 12 0.0 110196 cellular_subwaystation_5 14 0.0 163071
+wifi_walking 42 0.0677 98911 cellular_outdoor_5 20 0.0013 239950
+cellular_subway_4 22 0.0001 147519 cellular_subway_2 27 0.0 306568
+wifi_home_2 12 0.0 144205 cellular_subwaystation_6 43 0.0026 251591

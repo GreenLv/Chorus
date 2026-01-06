@@ -1,0 +1,11 @@
+abr_type,cc,test_trace,chunk_cnt,QoE,mse,mae,rmse,r_squared,pred_error_rate,overest_ratio,pred_accuracy
+XLINK,Cubic,3~cellular_hsr_8~54~cellular_driving_2~15,75,3.187,3.792,1.345,1.947,-0.468,0.245,0.453,0.667
+XLINK,Cubic,9~cellular_hsr_3~34~cellular_subwaystation~15,76,8.522,8.103,1.867,2.847,-0.899,0.200,0.500,0.763
+XLINK,Cubic,10~cellular_hsr_4~166~cellular_hsr_7~50,52,-24.532,0.179,0.335,0.423,-0.778,0.423,0.385,0.538
+XLINK,Cubic,11~cellular_hsr_10~52~cellular_hsr_5~76,61,-11.222,0.808,0.674,0.899,-0.400,0.595,0.344,0.459
+XLINK,Cubic,12~cellular_subwaystation_4~14~cellular_hsr_9~84,45,-43.467,9.035,2.200,3.006,0.322,1.261,0.400,0.400
+XLINK,Cubic,13~cellular_hsr_12~56~cellular_hsr_14~1002,47,-38.223,0.122,0.278,0.349,-0.544,0.462,0.362,0.574
+XLINK,Cubic,14~cellular_hsr_17~180~cellular_hsr_13~44,65,-6.502,26.101,4.163,5.109,0.164,0.745,0.292,0.462
+XLINK,Cubic,15~cellular_hsr_15~87~wifi_office~4,75,5.489,3.454,1.086,1.859,-1.615,0.170,0.387,0.773
+XLINK,Cubic,16~cellular_hsr_16~64~cellular_subway~14,77,7.946,22.231,3.530,4.715,-0.239,0.371,0.442,0.571
+XLINK,Cubic,20~cellular_office_4~23~wifi_hsr~47,64,-9.028,0.168,0.334,0.410,-0.754,0.351,0.391,0.641

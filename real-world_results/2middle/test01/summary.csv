@@ -1,0 +1,4 @@
+abr_type,chunk_cnt,bitrate_sum,rebuffer_sum,qoe_sum,avg_throughput,hm_error_rate,overest_ratio,suitable_pre_diff,suitable_real_diff,pre_real_diff,total_lost_ratio,avg_path1_srtt,avg_path2_srtt,avg_path1_send_rate,avg_path2_send_rate,avg_path1_send_data,avg_path2_send_data,avg_path1_reinject_data,avg_path2_reinject_data,avg_chunk_reinject_ratio,session_reinject_ratio,pre_error_rate,avg_fast_path_ratio,avg_fast_path_bw,avg_avg_rtt,path1_reset_cnt,path2_reset_cnt
+Chorus,77,1209.000,0.383,1187.872,41.410,0.246,0.273,543.000,1143.000,600.000,0.019,0.097,0.867,5.738,41.727,1044.951,8039.138,699.719,12.713,0.073,0.078,0.400,0.885,38.634,0.730,0,0
+XLINK,77,1217.000,0.201,1198.784,46.554,0.244,0.416,223.000,1351.000,1128.000,0.013,0.118,0.744,2.315,46.716,388.283,8051.180,82.649,2.552,0.012,0.010,,,,,,
+SP,76,252.000,17.598,-87.568,3.234,0.315,0.461,-12.000,-96.500,-84.500,,,,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+abr_type,cc,mean_chunk_cnt,mean_bitrate,mean_rebuffer,mean_qoe,mean_throughput,mean_hm_error,mean_overest_ratio,mean_lost_ratio,mean_path1_reset_cnt,mean_path2_reset_cnt,mean_reinject_ratio,mean_chorus_error,mean_reschedule_cnt,mean_ratio_change_rate
+Chorus,Cubic,75.192,806.904,15.081,499.536,11.569,0.297,0.161,0.019,12.423,5.423,0.015,0.400,10.672,0.007
+XLINK,Cubic,73.385,768.808,19.829,404.537,11.161,0.344,0.408,0.023,0.000,0.000,0.021,,,
+MinRTT+RI,Cubic,72.885,799.731,20.630,412.656,11.589,0.297,0.403,0.019,0.000,0.000,0.064,,,
+MinRTT,Cubic,68.808,738.481,34.008,143.846,11.372,0.409,0.390,0.028,0.000,0.000,,,,
+SP,Cubic,71.962,642.442,18.732,258.879,8.830,0.253,0.421,,,,,,,

@@ -1,0 +1,3 @@
+abr_type,avg_throughput,total_lost_ratio,session_reinject_ratio
+Chorus,49.985 (+-18.557),0.007 (+-0.002),0.139 (+-0.043)
+XLINK,48.835 (+-18.394),0.010 (+-0.003),0.108 (+-0.050)
