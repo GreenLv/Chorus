@@ -63,7 +63,7 @@ Contains 52 network bandwidth traces collected from real 4G/5G cellular and WiFi
 | `.png` | Bandwidth trace visualizations |
 | `all_trace_bw.csv` | Summary of all traces with average bandwidth, RTT, and loss rate |
 
-**Trace naming**: `downlink-{scenario}.csv`
+**Trace naming**: `downlink-{scenario}.csv` or `uplink-{scenario}.csv`
 - Cellular scenarios: `cellular_airport`, `cellular_driving`, `cellular_home`, `cellular_hsr` (high-speed rail), `cellular_office`, `cellular_outdoor`, `cellular_subway`, etc.
 - WiFi scenarios: `wifi_home`, `wifi_office`, `wifi_walking`, `wifi_hsr`
 
