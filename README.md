@@ -18,9 +18,9 @@ Chorus is a cross-layer framework that coordinates multipath scheduling with ada
 
 ## Code Availability
 
-Due to code ownership restrictions and legal reasons, the Chorus core implementation and server-side integration code cannot be open-sourced. This repository provides the main experimental datasets to facilitate reproducibility and further research.
+We released the [Chorus Android Player](https://github.com/GreenLv/Chorus-Android-Player), including the player-side DASH logic, the public transport service-provider interface, and a newly written Teki/JNI adapter skeleton with a fail-closed native stub. These sources expose the client/server QoE interface described in the technical report, but do not constitute a complete Chorus deployment.
 
-Nevertheless, we released the code for the Android client implementation: [Chorus-Android-Player](https://github.com/GreenLv/Chorus-Android-Player).
+Due to code ownership restrictions and legal reasons, the modified XQUIC transport core and headers, production backend/SDK artifacts, and server-side integration remain unavailable. This repository provides the main experimental datasets to facilitate reproducibility and further research.
 
 ## Repository Structure
 
